@@ -3,7 +3,10 @@ In short, we are looking for a backend developer with at least 3 years of experi
 You will be able to work either at our office in Madrid or fully remote.
 
 ### We will pay more attention to you if these topics look familiar to you (the most important first)
+- Design software components
+- Git and git workflow knowledge
 - Node.js and/or MongoDB
+- Writing unit tests (preferably using Jest)
 - Docker & Kubernetes
 - Microservices
 - RabbitMQ (or AMQP in general)
@@ -13,6 +16,7 @@ You will be able to work either at our office in Madrid or fully remote.
 - Gcloud suite
 - WebSockets
 - Selenium
+- Working proficiency and communication skills in verbal and written English
 
 
 ### What does our stack look like?
