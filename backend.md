@@ -39,8 +39,8 @@ We use Redis as a distributed real-time database and RabbitMQ for communications
 - Create new backend services and improve the current ones
 
 ### What we offer
-- Salary between 28-32k (just to have an idea, we can arrange below and above that depending on the candidate)
+- Negotiable salary
 - Flexible schedule (always having in mind team compromises)
 - Fun, young environment (We try to have as much as we can while getting things done)
-- Cool tech stack (we love working with the lastest technologies, or creating our own!)
+- Cool tech stack (we love working with the latest technologies, or creating our own!)
 - Some huge Harry Potter's fans (and some opponents)
