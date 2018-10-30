@@ -6,18 +6,18 @@ In short, we are looking for a passionate person with experience in DevOps metho
 
 ### We will pay more attention to you if these topics look familiar to you (the most important first)
 - Docker
-- Kubernetes
-- Git and git workflow knowledge
+- Kubernetes & Helm
+- GitOps
 - GCloud suite
-- Istio
-- Jenkins and CI/CD workflows
+- Jenkins, Spinnaker and CI/CD workflows
 - Obervability & monitoring
 - Prometheus
 - Multi-AZ deployments
+- Istio
 - Microservices
 - Blue/Green deployments, A/B testing, Canary releases...
 - WebSockets
-- RabbitMQ (or AMQP in general)
+- AMQP/gRPC (we use RabbitMQ)
 - Redis
 - MongoDB
 - Working proficiency and communication skills in verbal and written English
