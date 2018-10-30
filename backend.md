@@ -2,7 +2,7 @@
 mashme.io is revolutionizing the unified communication experience. We use leading technology to deliver simplified business communications, video conferencing, and always-on collaboration as the first credible alternative to an in-person meeting. We are a young and funny multinational team that are already blitzing our targets - and we show no sign of slowing down!
 
 ### What are we looking for?
-In short, we are looking for a backend developer with at least 3 years of experience working with software. The most important thing is that you are pasionate about writing code and building complex and robust architectures and you are always willing to learn.
+In short, we are looking for a backend developer with at least 3 years of experience working with software. The most important thing is that you are passionate about writing code and building complex and robust architectures and you are always willing to learn.
 You will be able to work either at our office in Madrid or fully remote.
 
 ### We will pay more attention to you if these topics look familiar to you (the most important first)
