@@ -2,7 +2,7 @@
 mashme.io is revolutionizing the unified communication experience. We use leading technology to deliver simplified business communications, video conferencing, and always-on collaboration as the first credible alternative to an in-person meeting. We are a young and funny multinational team that are already blitzing our targets - and we show no sign of slowing down.
 
 ## What does our stack look like?
-Our frontend code is based on Web Components made by Polymer (version 1 and 2) and Lit. These components are written in vanilla JavaScript, HTML and CSS (no preprocessors), keeping the three layers separately (people who write the CSS, they do it in separate CSS files). We use Web Component Tester and Karma for testing our Web Components. Currently, we have more than 200 tests.
+Our frontend code is based on Web Components made with Polymer (version 1 and 2) and Lit. These components are written in vanilla JavaScript, HTML and CSS (no preprocessors), keeping the three layers separately (people who write the CSS, they do it in separate CSS files). We use Web Component Tester and Karma for testing our Web Components. Currently, we have more than 200 tests.
 
 We also have a custom middleware made with vanilla JavaScript so we don't have any dependencies with frameworks like Angular or React. 
 
