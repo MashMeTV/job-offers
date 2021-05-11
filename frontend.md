@@ -11,7 +11,7 @@ You will develop locally on a dockerized environment, with GitHub as code reposi
 On mashme.io, we embrace the ‘you build it, you run it’ philosophy and you will be in charge of production deployments following GitOps with tools like Flux, Helm...
 
 ## What we need from you
-The most important thing is that you are passionate about writing code and building complex and robust JavaScript applications following good practices that helping you to create and maintain an ecosystem putting all the pieces together.
+The most important thing is that you are passionate about writing code and building complex and robust JavaScript applications following good practices that helping you to create and maintain an ecosystem putting all the pieces together. You also must have basic HTML knowledge.
 
 If you don't have experience creating Web Components or you do but you don't know Polymer or Lit, it doesn't matter. We are trying to keep our platform agnostic in terms of what can we use and how we can use.
 
