@@ -18,7 +18,7 @@ If you don't have experience creating Web Components or you do but you don't kno
 Last but not least, as part of an international team we need you to feel comfortable communicating in English.
 
 ## Would be great if you…
-- Establish software architecture patterns with consistent high availability, scale, security deployed in multiple clusters all around the world.
+- Establish software architecture patterns.
 - Have experience writing Web Components in any framework or library, or just using vanilla JavaScript.
 - Have experience with the WebRTC stack.
 - Have experience with any build tools.
